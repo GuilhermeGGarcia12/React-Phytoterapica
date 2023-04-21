@@ -27,7 +27,6 @@ function Details() {
                     <p>óleos puros e naturais</p>
                 </div>
             </div>
-
         </div>
     )
 }
